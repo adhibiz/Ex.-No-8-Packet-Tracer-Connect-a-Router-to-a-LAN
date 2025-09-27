@@ -114,6 +114,9 @@ ________________________________________<br>
 •	Save: copy running-config startup-config / wr <br>
 ________________________________________<br>
 # Output (Attach Screenshots)
+
+<img width="2855" height="1245" alt="image" src="https://github.com/user-attachments/assets/8b40a64a-3d3d-4b61-a510-b2133bff4128" />
+
 •	show ip interface brief on R1 and R2 (after configuration)<br>
 •	show ip route on R1 and R2<br>
 <img width="1314" height="986" alt="image" src="https://github.com/user-attachments/assets/eb1661e0-daae-43af-ac37-cb0daa1bc033" />
